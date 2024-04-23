@@ -1,12 +1,10 @@
 # OSRS Boss Finder
 
-![Main Page](https://github.com/shahzada-shah/OSRSBossFinder/blob/main/assets/img_02.png)
-
 ## Overview
 OSRS Boss Finder is an intuitive application dedicated to enhancing the gaming experience for players of Old School RuneScape (OSRS). 
-This digital companion provides an organized way for users to discover and track bosses within the game, with rich data and strategic insights.
+This digital companion provides an organized way for users to discover and track bosses within the game, with rich insights.
 
-For a full video walkthrough of this project, click here.
+![Main Page](https://github.com/shahzada-shah/OSRSBossFinder/blob/main/assets/img_02.png)
 
 ## Tech Stack
 - **Frontend**: ReactJS
