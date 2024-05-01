@@ -4,7 +4,7 @@
 OSRS Boss Finder is an intuitive application dedicated to enhancing the gaming experience for players of Old School RuneScape (OSRS). 
 This digital companion provides an organized way for users to discover and track bosses within the game, with rich insights.
 
-![Main Page](https://github.com/shahzada-shah/OSRSBossFinder/blob/main/assets/img_02.png)
+![Main Page](https://github.com/shahzada-shah/OSRSBossFinder/blob/main/assets/img_01.png)
 
 ## Tech Stack
 - **Frontend**: ReactJS
@@ -20,7 +20,7 @@ This digital companion provides an organized way for users to discover and track
 This application is built using the PERN stack and fully hosted on AWS, ensuring a scalable and reliable infrastructure. Leveraging the power of cloud services, 
 OSRS Boss Finder delivers seamless user experiences with optimized load times and security.
 
-![Main Page](https://github.com/shahzada-shah/OSRSBossFinder/blob/main/assets/img_01.png)
+![Main Page](https://github.com/shahzada-shah/OSRSBossFinder/blob/main/assets/img_02.png)
 
 ## Functionalities
 1. **Protected Routes:** Ensures that only authenticated users can access certain parts of the application.
